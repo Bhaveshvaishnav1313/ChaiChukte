@@ -1,0 +1,6 @@
+{
+  "name": "ChaiChukta - Group Expense Splitter",
+  "description": "Transparent group expense splitter built with MERN stack featuring membership periods, greedy debt simplification, and detailed settlement summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
